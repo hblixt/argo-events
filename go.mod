@@ -5,7 +5,7 @@ go 1.17
 retract v1.15.0 // Published accidentally.
 
 require (
-	cloud.google.com/go/compute v0.1.0
+	cloud.google.com/go/compute v1.1.0
 	cloud.google.com/go/pubsub v1.3.1
 	github.com/Azure/azure-event-hubs-go/v3 v3.3.7
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
@@ -30,7 +30,7 @@ require (
 	github.com/go-git/go-git/v5 v5.4.2
 	github.com/go-openapi/inflect v0.19.0
 	github.com/go-openapi/spec v0.20.4
-	github.com/go-redis/redis v6.15.8+incompatible
+	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/go-resty/resty/v2 v2.7.0
 	github.com/go-swagger/go-swagger v0.25.0
 	github.com/gobwas/glob v0.2.4-0.20181002190808-e7a84e9525fe
